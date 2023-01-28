@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia prima App</string>
+    <string name="first_fragment_line1">Ciao, prima linea del fragment!</string>
+    <string name="first_fragment_line2">Seconda linea del fragment, alla prossima!</string>
+    <string name="button_fragment1">Premi qui</string>
+    <string name="toast_string">Questo bottone è tra due Textviews!</string>
+    <string name="fragment_2_line">Questo è il secondo fragment!</string>
+    <string name="button_go_to_fragment_2">Fragment 2</string>
+    <string name="button_go_to_fragment_1">Fragment 1</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_profile">Profilo</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_exit">Esci</string>
+</resources>
