@@ -6,12 +6,15 @@
     <string name="button_fragment1">Press here</string>
     <string name="toast_string">This button is between two Textviews!</string>
     <string name="fragment_2_line">This is the second fragment!</string>
-    <string name="button_go_to_fragment_2">Fragment 2</string>
-    <string name="button_go_to_fragment_1">Fragment 1</string>
+    <string name="button_go_to_fragment_2" translatable="false">Fragment 2</string>
+    <string name="button_go_to_fragment_1" translatable="false">Fragment 1</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_profile">Profile</string>
-    <string name="menu_account">Account</string>
+    <string name="menu_account" translatable="false">Account</string>
     <string name="menu_exit">Exit</string>
+    <string name="bottom_home" translatable="false">Home</string>
+    <string name="bottom_second" translatable="false">Second</string>
+
 
 
 

@@ -3,14 +3,14 @@
 
     <item
         android:id="@+id/fragment1"
-        android:title="Home"
+        android:title="@string/bottom_home"
         android:icon="@drawable/home_button"
         android:orderInCategory="100"
         />
 
     <item
         android:id="@+id/fragment2"
-        android:title="Second"
+        android:title="@string/bottom_second"
         android:icon="@drawable/star_button"
         android:orderInCategory="200" />
 
